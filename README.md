@@ -1,4 +1,4 @@
-# Above The Universe API
+# Above The Universe API Docs
 
 ![](https://github.com/Above-The-Universe/atu-backend-api/blob/main/images/readme/ezgif.com-optimize.gif)
 
