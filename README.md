@@ -4,9 +4,10 @@
 
 Welcome to the Above The Universe API codebase!
 
-This is an open source educational API to create awareness and give information about the universe at large.This project is inspired by the effects and changes caused by climate change.
+This is an open source educational API to create awareness and give information about the universe at large.This project is inspired by the effects and changes caused by climate change, we must keep up with the changes in our world to work alongside them.
+.
 
-Endpoints provided give access to images and descriptions of different parts of the universe, Details of all the cosmic planets, stars and bodies and telemetries of the current spaceEx's mission.
+Endpoints provided give access to images and descriptions of different parts of the universe, Details of all the cosmic planets, stars, bodies etc. and telemetries of the most current spaceEx's mission.
 
 ### Here is the [API Documentation](https://github.com/Above-The-Universe/atu-backend-api/tree/main#api-documentation-1)
 
